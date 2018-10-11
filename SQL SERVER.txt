@@ -1,0 +1,3 @@
+Configurações para SQL Server
+
+Alterar o banco do arquivo application.properties e descomentar a dependencia do sql server no arquivo pom.xml que está dentro do arquivos do projeto.
